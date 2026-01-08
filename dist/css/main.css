@@ -52,7 +52,7 @@
   font-display: swap;
   font-style: normal;
   font-weight: 100;
-  src: url(/assets/game/font/ExocetBlizzardMixedCaps-Medium.woff2) format("woff2"), url(/assets/game/font/ExocetBlizzardMixedCaps-Medium.woff) format("woff");
+  src: url(assets/game/font/ExocetBlizzardMixedCaps-Medium.woff2) format("woff2"), url(assets/game/font/ExocetBlizzardMixedCaps-Medium.woff) format("woff");
 }
 .d2planner-wrapper {
   position: relative;
@@ -2378,87 +2378,87 @@
 }
 
 .d2planner-wrapper .d2p-SkillTree .d2p-skills-background.d2p-class-ama {
-  background-image: url(/assets/game/planner-assets-img/skills-ama.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-ama.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree .d2p-skills-background.d2p-class-sor {
-  background-image: url(/assets/game/planner-assets-img/skills-sor.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-sor.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree .d2p-skills-background.d2p-class-nec {
-  background-image: url(/assets/game/planner-assets-img/skills-nec.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-nec.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree .d2p-skills-background.d2p-class-pal {
-  background-image: url(/assets/game/planner-assets-img/skills-pal.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-pal.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree .d2p-skills-background.d2p-class-bar {
-  background-image: url(/assets/game/planner-assets-img/skills-bar.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-bar.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree .d2p-skills-background.d2p-class-dru {
-  background-image: url(/assets/game/planner-assets-img/skills-dru.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-dru.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree .d2p-skills-background.d2p-class-ass {
-  background-image: url(/assets/game/planner-assets-img/skills-ass.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-ass.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-pd2 .d2p-skills-background.d2p-class-ama {
-  background-image: url(/assets/game/planner-assets-img/skills-ama-pd2.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-ama-pd2.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-pd2 .d2p-skills-background.d2p-class-sor {
-  background-image: url(/assets/game/planner-assets-img/skills-sor-pd2.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-sor-pd2.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-pd2 .d2p-skills-background.d2p-class-nec {
-  background-image: url(/assets/game/planner-assets-img/skills-nec-pd2.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-nec-pd2.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-pd2 .d2p-skills-background.d2p-class-pal {
-  background-image: url(/assets/game/planner-assets-img/skills-pal-pd2.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-pal-pd2.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-pd2 .d2p-skills-background.d2p-class-bar {
-  background-image: url(/assets/game/planner-assets-img/skills-bar-pd2.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-bar-pd2.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-pd2 .d2p-skills-background.d2p-class-dru {
-  background-image: url(/assets/game/planner-assets-img/skills-dru-pd2.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-dru-pd2.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-pd2 .d2p-skills-background.d2p-class-ass {
-  background-image: url(/assets/game/planner-assets-img/skills-ass-pd2.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-ass-pd2.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-blizzless .d2p-skills-background.d2p-class-ama {
-  background-image: url(/assets/game/planner-assets-img/skills-ama.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-ama.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-blizzless .d2p-skills-background.d2p-class-sor {
-  background-image: url(/assets/game/planner-assets-img/skills-sor.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-sor.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-blizzless .d2p-skills-background.d2p-class-nec {
-  background-image: url(/assets/game/planner-assets-img/skills-nec.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-nec.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-blizzless .d2p-skills-background.d2p-class-pal {
-  background-image: url(/assets/game/planner-assets-img/skills-pal.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-pal.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-blizzless .d2p-skills-background.d2p-class-bar {
-  background-image: url(/assets/game/planner-assets-img/skills-bar.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-bar.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-blizzless .d2p-skills-background.d2p-class-dru {
-  background-image: url(/assets/game/planner-assets-img/skills-dru.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-dru.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree.d2p-game-blizzless .d2p-skills-background.d2p-class-ass {
-  background-image: url(/assets/game/planner-assets-img/skills-ass.PNG);
+  background-image: url(assets/game/planner-assets-img/skills-ass.PNG);
 }
 
 .d2planner-wrapper .d2p-SkillTree .d2p-skills-background-hd {
@@ -2806,7 +2806,7 @@
   width: 320px;
   height: 383px;
   margin-top: 0;
-  background: url(/assets/game/planner-assets-img/invchar.PNG) no-repeat;
+  background: url(assets/game/planner-assets-img/invchar.PNG) no-repeat;
   position: relative;
 }
 
@@ -2815,7 +2815,7 @@
 }
 
 .d2planner-wrapper .d2p-PaperdollChar.d2p-noinv {
-  background: url(/assets/game/planner-assets-img/invchar-noinv.PNG) no-repeat;
+  background: url(assets/game/planner-assets-img/invchar-noinv.PNG) no-repeat;
   height: 250px;
 }
 
@@ -3241,7 +3241,7 @@
   width: 320px;
   height: 173px;
   margin-top: 0;
-  background: url(/assets/game/planner-assets-img/npcinv.PNG) no-repeat;
+  background: url(assets/game/planner-assets-img/npcinv.PNG) no-repeat;
   position: relative;
 }
 
@@ -3343,7 +3343,7 @@
   font-size: 20px;
   width: 1em;
   height: 1em;
-  background-image: url(/assets/game/planner-assets-img/classicons.PNG);
+  background-image: url(assets/game/planner-assets-img/classicons.PNG);
   background-size: 1em auto;
   vertical-align: top;
   margin-right: 2px;
@@ -3351,7 +3351,7 @@
 }
 
 .d2planner-wrapper .d2p-class-icon.d2p-icon-large {
-  background-image: url(/assets/game/planner-assets-img/classicons32.PNG);
+  background-image: url(assets/game/planner-assets-img/classicons32.PNG);
 }
 
 .d2planner-wrapper .d2p-class-icon.d2p-class-ama {
@@ -3477,7 +3477,7 @@
 }
 
 .d2planner-wrapper .d2p-game-hd .d2p-class-icon {
-  background-image: url(/assets/game/planner-assets-img/hd-classicons.PNG);
+  background-image: url(assets/game/planner-assets-img/hd-classicons.PNG);
 }
 
 .d2planner-wrapper .d2p-ClassBar {
@@ -3586,7 +3586,7 @@
 .d2planner-wrapper .d2p-ClassBar .ui-Select-menu {
   font-size: 1em;
   background-color: #181818;
-  background-image: url(/assets/game/planner-assets-img/panel.PNG);
+  background-image: url(assets/game/planner-assets-img/panel.PNG);
   background-position: 0 0;
   border: none;
   box-shadow: none;
@@ -3763,7 +3763,7 @@
 .d2planner-wrapper .d2p-CubePopup.d2p-game-d2r, .d2planner-wrapper .d2p-CubePopup.d2p-game-blizzless {
   width: 146px;
   height: 178px;
-  background: url(/assets/game/planner-assets-img/hd-cube.PNG) no-repeat;
+  background: url(assets/game/planner-assets-img/hd-cube.PNG) no-repeat;
 }
 
 .d2planner-wrapper .d2p-CubePopup.d2p-game-d2r .d2p-close, .d2planner-wrapper .d2p-CubePopup.d2p-game-blizzless .d2p-close {
@@ -3793,11 +3793,11 @@
   width: 320px;
   height: 362px;
   margin-top: 0;
-  background: url(/assets/game/planner-assets-img/hd-invchar.PNG) no-repeat;
+  background: url(assets/game/planner-assets-img/hd-invchar.PNG) no-repeat;
 }
 
 .d2planner-wrapper .d2p-game-d2r .d2p-PaperdollChar.d2p-noinv, .d2planner-wrapper .d2p-game-blizzless .d2p-PaperdollChar.d2p-noinv {
-  background: url(/assets/game/planner-assets-img/hd-invchar-noinv.PNG) no-repeat;
+  background: url(assets/game/planner-assets-img/hd-invchar-noinv.PNG) no-repeat;
   height: 236px;
 }
 
@@ -4114,7 +4114,7 @@
   margin-top: 0;
   width: 320px;
   height: 198px;
-  background: url(/assets/game/planner-assets-img/hd-npcinv.PNG) no-repeat;
+  background: url(assets/game/planner-assets-img/hd-npcinv.PNG) no-repeat;
 }
 
 .d2planner-wrapper .d2p-game-d2r .d2p-PaperdollMerc .d2p-slot .d2p-slot-background,
@@ -4491,7 +4491,7 @@
 
 .d2planner-wrapper .d2p-game-pd2 .d2p-PaperdollChar {
   height: 473px;
-  background: url(/assets/game/planner-assets-img/pd2-invchar.PNG) no-repeat;
+  background: url(assets/game/planner-assets-img/pd2-invchar.PNG) no-repeat;
 }
 
 .d2planner-wrapper .d2p-game-pd2 .d2p-PaperdollChar .d2p-invswap-1 {
@@ -4609,7 +4609,7 @@
 
 .d2planner-wrapper .d2p-game-pd2 .d2p-PaperdollMerc {
   height: 188px;
-  background: url(/assets/game/planner-assets-img/pd2-npcinv.PNG) no-repeat;
+  background: url(assets/game/planner-assets-img/pd2-npcinv.PNG) no-repeat;
 }
 
 .d2planner-wrapper .d2p-game-pd2 .d2p-PaperdollMerc .d2p-slot-tors {
@@ -4711,7 +4711,7 @@
 
 .d2planner-wrapper .d2p-CubePopup.d2p-game-pd2 {
   width: 143px;
-  background: url(/assets/game/planner-assets-img/pd2-cube.PNG) no-repeat;
+  background: url(assets/game/planner-assets-img/pd2-cube.PNG) no-repeat;
 }
 
 .d2planner-wrapper .d2p-CubePopup.d2p-game-pd2 .d2p-close {
